@@ -1,2 +1,1 @@
-# first-day-demo
-this is a demo repo, might delete later
+# I didn't like the default text
